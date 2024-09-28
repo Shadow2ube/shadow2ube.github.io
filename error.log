@@ -1,0 +1,62 @@
+----------
+
+Fri Sep 27 2024 20:50:41 GMT-0400 (Eastern Daylight Time)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Sep 27 2024 20:50:41 GMT-0400 (Eastern Daylight Time)
+
+warning: in the working copy of 'assets/img/logo.svg', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Sep 27 2024 20:50:41 GMT-0400 (Eastern Daylight Time)
+
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Sep 27 2024 20:50:41 GMT-0400 (Eastern Daylight Time)
+
+warning: in the working copy of 'projects.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Sep 27 2024 20:50:41 GMT-0400 (Eastern Daylight Time)
+
+warning: in the working copy of 'blog.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Sep 27 2024 20:50:41 GMT-0400 (Eastern Daylight Time)
+
+warning: in the working copy of 'cv.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Sep 27 2024 20:50:42 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/Shadow2ube/shadow2ube.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Shadow2ube/shadow2ube.github.io.git'
+
+
+----------
+
+Fri Sep 27 2024 20:50:42 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
